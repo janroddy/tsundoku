@@ -1,0 +1,17 @@
+.nav-link {
+  font-size: large;
+}
+
+.header-con {
+  background-color: #c5dbd9;
+}
+.container {
+    background-color: #c5dbd9;
+}
+
+#header-logo {
+  width: auto;
+  height: 200px;
+  max-width: 100%;
+  padding-bottom:50px;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Anne of Green Gables",
+    "isbn": 9789900407577,
+    "author": "Montgomery, L. M.",
+    "rating": 5,
+    "imageUrl": "assets/images/anne.jpg"
+
+  },
+  {
+    "title": "The Bell Jar",
+    "isbn": 9780061148514,
+    "author": "Plath, Sylvia",
+    "rating": 4.8,
+    "imageUrl": "assets/images/bell_jar.jpg"
+
+  },
+  {
+    "title": "Heart Talk",
+    "isbn": 9781501177347,
+    "author": "Wade, Cleo",
+    "rating": 4,
+    "imageUrl": "assets/images/heart_talk.jpg"
+
+  },
+  {
+    "title": "The Idiot",
+    "isbn": 9781594205613,
+    "author": "Batuman, Elif",
+    "rating": 3.5,
+    "imageUrl": "assets/images/idiot.jpg"
+
+  },
+  {
+    "title": "On Earth We're Briefly Gorgeous",
+    "isbn": 9781501177347,
+    "author": "Vuong, Ocean",
+    "rating": 4,
+    "imageUrl": "assets/images/earth.jpg"
+
+  }
+]

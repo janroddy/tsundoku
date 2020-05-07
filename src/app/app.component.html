@@ -1,0 +1,12 @@
+<nav class='header-con navbar navbar-expand '>
+  <a class='navbar-brand'>
+  <img src="./assets/images/3.png"
+       class="img-responsive center-block" id="header-logo"/></a>
+  <ul class='nav nav-pills'>
+    <li><a class='nav-link' [routerLink]="['/welcome']">Home</a></li>
+    <li><a class='nav-link' [routerLink]="['/books']">Book List</a></li>
+  </ul>
+</nav>
+<div>
+  <router-outlet></router-outlet>
+</div>

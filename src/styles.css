@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+/*
+colors:
+muted pink #bda3af
+dark grey:
+teal:
+*/
+div.card-header {
+ font-size: large;
+
+}
+.navbar-brand {
+    background-color: #c5dbd9;
+}
+
+i {
+  color:#bda3af;
+}
+.nav-link {
+  color:#bda3af;
+}
+
+div.card {
+  margin-top: 10px;
+}
+
+.table {
+  margin-top: 10px;
+}
+
+body{
+}
+li.navbar {
+  color: white;
+}
