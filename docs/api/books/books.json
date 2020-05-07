@@ -22,5 +22,21 @@
     "rating": 4,
     "imageUrl": "assets/images/heart_talk.jpg"
 
+  },
+  {
+    "title": "The Idiot",
+    "isbn": 9781594205613,
+    "author": "Batuman, Elif",
+    "rating": 3.5,
+    "imageUrl": "assets/images/idiot.jpg"
+
+  },
+  {
+    "title": "On Earth We're Briefly Gorgeous",
+    "isbn": 9781501177347,
+    "author": "Vuong, Ocean",
+    "rating": 4,
+    "imageUrl": "assets/images/earth.jpg"
+
   }
 ]
